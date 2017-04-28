@@ -1,0 +1,6 @@
+canvas {
+	float: left;
+	width: 75%;
+	height: 560px; 
+	background-image: url("Assets/Terrain/BackgroundDun.png");
+}
